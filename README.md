@@ -18,7 +18,7 @@ php bin/console lexik:jwt:generate-keypair
 ## Baza Danych
 .env
 ```text
-DATABASE_URL="postgresql://postgres:postgres@127.0.0.1:5432/capitalService?serverVersion=16&charset=utf8"
+DATABASE_URL="postgresql://postgres:postgres@127.0.0.1:5432/sample?serverVersion=16&charset=utf8"
 ```
 Generowanie bazy danych
 ```bash
